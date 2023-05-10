@@ -18,4 +18,15 @@ Here are some ideas to get you started:
 -->
 <hr>
 <h1>Tech stack</h1>
-<img src="https://img.shields.io/Java/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<div class="display-inline">
+  <img src="https://img.shields.io/badge/-%20Html-blue" />
+  <img src="https://img.shields.io/badge/-%20css-red" />
+  <img src="https://img.shields.io/badge/-%20javascript-yellow" />
+  <img src="https://img.shields.io/badge/-%20Java-yellow" />
+  <img src="https://img.shields.io/badge/-%20C%23-purple" />
+  <img src="https://img.shields.io/badge/-%20bootstrap-9cf" />
+  <img src="https://img.shields.io/badge/-ASP.Net Core-%23aa130f" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-lightblue" />
+  <img src="https://img.shields.io/badge/-Docker-blue" />
+</div>
+
